@@ -32,3 +32,4 @@ build/
 
 ### Others ###
 desktop.ini
+*.properties
